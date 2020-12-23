@@ -20,4 +20,4 @@ ADMIN LOGIN PAGE:
 ![](Adminlogin2.png)
 
 DATABASE:
-![](DATABASE.png)
+![](Database.png)
