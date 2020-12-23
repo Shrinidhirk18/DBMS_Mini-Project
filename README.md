@@ -10,4 +10,4 @@ CUSTOMER REGISTRATION PAGE:
 ![](Registration.png)
 ![](Registration1.png)
 ADMIN LOGIN PAGE:
-![](Admin login.png)
+![](Adminlogin.png)
