@@ -6,3 +6,5 @@ of standing in queue and buying the tickets which in turn also helps us to save 
 
 CUSTOMER LOGIN PAGE:
 ![](login.png)
+CUSTOMER REGISTRATION PAGE:
+![](Registration.png)
