@@ -8,3 +8,10 @@ CUSTOMER LOGIN PAGE:
 ![](login.png)
 CUSTOMER REGISTRATION PAGE:
 ![](Registration.png)
+![](Registration1.png)
+ADMIN LOGIN PAGE:
+![](Admin login.png)
+![](Admin login1.png)
+![](Admin login2.png)
+DATABASE PAGE:
+![](Databse.png)
