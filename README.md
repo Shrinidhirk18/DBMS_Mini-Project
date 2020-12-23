@@ -19,5 +19,5 @@ ADMIN LOGIN PAGE: It contains Admin login window ,after clicking Login button if
 
 ![](Adminlogin2.png)
 
-DATABASE:This image shows how the registerd values will be stored.
+DATABASE:This image shows how the registered values will be stored.
 ![](Database.png)
