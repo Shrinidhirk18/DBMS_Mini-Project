@@ -7,12 +7,12 @@ of standing in queue and buying the tickets which in turn also helps us to save 
 CUSTOMER LOGIN PAGE:It contains customer login window with Registration and Admin login option
 ![](login.png)
 
-CUSTOMER REGISTRATION PAGE:It contains customer Regisration window ,after clicking the reister button message will be popped as successfully saved
+CUSTOMER REGISTRATION PAGE:It contains customer Regisration window ,after clicking the Register button message will be pop up as Successfully saved
 ![](Registration.png)
 
 ![](Registration1.png)
 
-ADMIN LOGIN PAGE: It contains admin login window and when invalid E-mail or password is given eorror message will be popped as shown in figure
+ADMIN LOGIN PAGE: It contains Admin login window ,after clicking Login button if the values are correct then the message will pop up as Login Successful or it will pop up as Invalid E-mail/Password
 ![](Adminlogin.png)
 
 ![](Adminlogin1.png)
